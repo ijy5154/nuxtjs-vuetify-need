@@ -1,6 +1,18 @@
 # nuxt-vuetify
 
-> nuxt vuetify
+``` INFO
+Eslint-plugin-vue (Auto Fix, Base Rules - eslint-disable-next-line) 
+https://vuejs.github.io/eslint-plugin-vue/rules/
+
+Vee-validate (locale korean - webpack load)
+
+Vue-sweetalert2
+
+Vue-sweetalert2 (Mddleware - Axios Error intercept -> vue-sweetalert)
+- Proxy 
+
+lodash
+```
 
 ## Build Setup
 
